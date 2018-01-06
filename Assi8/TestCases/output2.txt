@@ -1,0 +1,291 @@
+Choice		Action
+------		------
+A		Add Flight
+C		Create FlightManagement
+D		Search by Flight Number
+E		Search by Departure
+L		List Flights
+O		Sort by Flight Number
+P		Sort by Departure
+Q		Quit
+R		Remove by Flight Number
+T		Close FlightManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize FlightManagement to File
+X		Deserialize FlightManagement from File
+?		Display Help
+
+Please enter a maximum number of flights
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+
+
+Airlines:	B6
+Number:		361
+Departure:	PHX,1-12-17,5:00am
+Arrival:	SFO,1-12-17,7:15am
+
+
+Airlines:	UA
+Number:		101
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	AA
+Number:		402
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	BA
+Number:		1302
+Departure:	PHX,2-15-17,9:05pm
+Arrival:	LHR,2-16-17,8:15am
+
+
+Airlines:	HA
+Number:		561
+Departure:	LAX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:30pm
+
+
+What action would you like to perform?
+sorted by departures
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		101
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	HA
+Number:		561
+Departure:	LAX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:30pm
+
+
+Airlines:	B6
+Number:		361
+Departure:	PHX,1-12-17,5:00am
+Arrival:	SFO,1-12-17,7:15am
+
+
+Airlines:	BA
+Number:		1302
+Departure:	PHX,2-15-17,9:05pm
+Arrival:	LHR,2-16-17,8:15am
+
+
+Airlines:	AA
+Number:		402
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+What action would you like to perform?
+sorted by flight numbers
+What action would you like to perform?
+
+
+Airlines:	AA
+Number:		402
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	B6
+Number:		361
+Departure:	PHX,1-12-17,5:00am
+Arrival:	SFO,1-12-17,7:15am
+
+
+Airlines:	BA
+Number:		1302
+Departure:	PHX,2-15-17,9:05pm
+Arrival:	LHR,2-16-17,8:15am
+
+
+Airlines:	HA
+Number:		561
+Departure:	LAX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:30pm
+
+
+Airlines:	UA
+Number:		101
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+What action would you like to perform?
+Please enter Airlines to remove:
+Please enter flight number to remove:
+flight number BA1032 not found
+What action would you like to perform?
+Please enter Airlines to remove:
+Please enter flight number to remove:
+flight number BA1302 removed
+What action would you like to perform?
+
+
+Airlines:	AA
+Number:		402
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	B6
+Number:		361
+Departure:	PHX,1-12-17,5:00am
+Arrival:	SFO,1-12-17,7:15am
+
+
+Airlines:	HA
+Number:		561
+Departure:	LAX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:30pm
+
+
+Airlines:	UA
+Number:		101
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+What action would you like to perform?
+sorted by departures
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		101
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	HA
+Number:		561
+Departure:	LAX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:30pm
+
+
+Airlines:	B6
+Number:		361
+Departure:	PHX,1-12-17,5:00am
+Arrival:	SFO,1-12-17,7:15am
+
+
+Airlines:	AA
+Number:		402
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+What action would you like to perform?
+sorted by flight numbers
+What action would you like to perform?
+
+
+Airlines:	AA
+Number:		402
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	B6
+Number:		361
+Departure:	PHX,1-12-17,5:00am
+Arrival:	SFO,1-12-17,7:15am
+
+
+Airlines:	HA
+Number:		561
+Departure:	LAX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:30pm
+
+
+Airlines:	UA
+Number:		101
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+What action would you like to perform?

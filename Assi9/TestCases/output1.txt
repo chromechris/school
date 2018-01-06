@@ -1,0 +1,4 @@
+The minimum number is -55
+The sum of numbers at even indexes is 2764
+The count of numbers that are divisible by 3 is 6
+The maximum number among numbers that are less than the first number is 0

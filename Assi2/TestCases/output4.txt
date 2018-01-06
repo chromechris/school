@@ -1,0 +1,4 @@
+The minimum integer is -3
+The count of integers is 3
+The sum of positive integers is 4
+The count of even integers in the sequence is 2

@@ -1,0 +1,341 @@
+Choice		Action
+------		------
+A		Add Flight
+C		Create FlightManagement
+D		Search by Flight Number
+E		Search by Departure
+L		List Flights
+O		Sort by Flight Number
+P		Sort by Departure
+Q		Quit
+R		Remove by Flight Number
+T		Close FlightManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize FlightManagement to File
+X		Deserialize FlightManagement from File
+?		Display Help
+
+Please enter a maximum number of flights
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		2043
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	AA
+Number:		2345
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	DL
+Number:		3241
+Departure:	PHX,1-12-18,8:30am
+Arrival:	LAX,1-12-18,9:00am
+
+
+Airlines:	B6
+Number:		1120
+Departure:	ORD,4-16-17,9:35am
+Arrival:	PHX,4-16-17,4:30pm
+
+
+What action would you like to perform?
+Please enter Airlines to search:
+Please enter flight number to search:
+flight number DL3241 found
+What action would you like to perform?
+Please enter Airlines to search:
+Please enter flight number to search:
+flight number DL1234 not found
+What action would you like to perform?
+Please enter departure city to search:
+Please enter its departure year to search:
+Please enter its departure month to search:
+Please enter its departure date to search:
+Please enter its departure time to search:
+flight departure ORD,4-16-17,9:35am found
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		2043
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	AA
+Number:		2345
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	DL
+Number:		3241
+Departure:	PHX,1-12-18,8:30am
+Arrival:	LAX,1-12-18,9:00am
+
+
+Airlines:	B6
+Number:		1120
+Departure:	ORD,4-16-17,9:35am
+Arrival:	PHX,4-16-17,4:30pm
+
+
+What action would you like to perform?
+sorted by flight numbers
+What action would you like to perform?
+
+
+Airlines:	AA
+Number:		2345
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	B6
+Number:		1120
+Departure:	ORD,4-16-17,9:35am
+Arrival:	PHX,4-16-17,4:30pm
+
+
+Airlines:	DL
+Number:		3241
+Departure:	PHX,1-12-18,8:30am
+Arrival:	LAX,1-12-18,9:00am
+
+
+Airlines:	UA
+Number:		2043
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+What action would you like to perform?
+sorted by departures
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		2043
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	B6
+Number:		1120
+Departure:	ORD,4-16-17,9:35am
+Arrival:	PHX,4-16-17,4:30pm
+
+
+Airlines:	AA
+Number:		2345
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	DL
+Number:		3241
+Departure:	PHX,1-12-18,8:30am
+Arrival:	LAX,1-12-18,9:00am
+
+
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		2043
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	B6
+Number:		1120
+Departure:	ORD,4-16-17,9:35am
+Arrival:	PHX,4-16-17,4:30pm
+
+
+Airlines:	AA
+Number:		2345
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	DL
+Number:		3241
+Departure:	PHX,1-12-18,8:30am
+Arrival:	LAX,1-12-18,9:00am
+
+
+Airlines:	WN
+Number:		5234
+Departure:	DEN,3-20-17,6:35pm
+Arrival:	PHX,3-20-17,11:55pm
+
+
+What action would you like to perform?
+Please enter Airlines to search:
+Please enter flight number to search:
+flight number WN5235 not found
+What action would you like to perform?
+Please enter Airlines to search:
+Please enter flight number to search:
+flight number WN5234 found
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		2043
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	B6
+Number:		1120
+Departure:	ORD,4-16-17,9:35am
+Arrival:	PHX,4-16-17,4:30pm
+
+
+Airlines:	AA
+Number:		2345
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	DL
+Number:		3241
+Departure:	PHX,1-12-18,8:30am
+Arrival:	LAX,1-12-18,9:00am
+
+
+Airlines:	WN
+Number:		5234
+Departure:	DEN,3-20-17,6:35pm
+Arrival:	PHX,3-20-17,11:55pm
+
+
+What action would you like to perform?
+Please enter a file name to write:
+Please enter a string to write in the file:
+example1.txt was written
+What action would you like to perform?
+Please enter a file name to read:
+example2.txt was not found
+What action would you like to perform?
+Please enter a file name to read:
+example1.txt was read
+The first line of the file is:
+Writing and writing
+What action would you like to perform?
+
+
+Airlines:	UA
+Number:		2043
+Departure:	HOU,10-12-18,9:50am
+Arrival:	ATL,10-12-18,1:35pm
+
+
+Airlines:	B6
+Number:		1120
+Departure:	ORD,4-16-17,9:35am
+Arrival:	PHX,4-16-17,4:30pm
+
+
+Airlines:	AA
+Number:		2345
+Departure:	PHX,3-12-17,7:50pm
+Arrival:	LAX,3-12-17,8:55pm
+
+
+Airlines:	DL
+Number:		3241
+Departure:	PHX,1-12-18,8:30am
+Arrival:	LAX,1-12-18,9:00am
+
+
+Airlines:	WN
+Number:		5234
+Departure:	DEN,3-20-17,6:35pm
+Arrival:	PHX,3-20-17,11:55pm
+
+
+What action would you like to perform?

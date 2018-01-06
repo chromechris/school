@@ -1,0 +1,4 @@
+The minimum number is -45678
+The sum of numbers at even indexes is 903
+The count of numbers that are divisible by 3 is 5
+The maximum number among numbers that are less than the first number is -40

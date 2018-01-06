@@ -1,0 +1,90 @@
+Choice		Action
+------		------
+A		Add Soup
+C		Compute Total Prices
+D		Search for Soup
+L		List Soups
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter some soup information to add:
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Soup
+C		Compute Total Prices
+D		Search for Soup
+L		List Soups
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter some soup information to add:
+What action would you like to perform?
+Please enter some soup information to add:
+What action would you like to perform?
+
+The Soup in a Box Container
+The Height:		4
+The Width:		12
+The Depth:		50
+The SoupId:		hotAndSourSoup200
+The Volume:		0
+The Unit Price:		0.0012
+The Total Price:	$0.00
+
+
+The Soup in a Box Container
+The Height:		5
+The Width:		15
+The Depth:		5
+The SoupId:		tomYum110
+The Volume:		0
+The Unit Price:		0.0020
+The Total Price:	$0.00
+
+
+The Soup in a Box Container
+The Height:		5
+The Width:		10
+The Depth:		10
+The SoupId:		lentilSoup234
+The Volume:		0
+The Unit Price:		0.0035
+The Total Price:	$0.00
+
+What action would you like to perform?
+total prices computed
+What action would you like to perform?
+
+The Soup in a Box Container
+The Height:		4
+The Width:		12
+The Depth:		50
+The SoupId:		hotAndSourSoup200
+The Volume:		2400
+The Unit Price:		0.0012
+The Total Price:	$2.88
+
+
+The Soup in a Box Container
+The Height:		5
+The Width:		15
+The Depth:		5
+The SoupId:		tomYum110
+The Volume:		375
+The Unit Price:		0.0020
+The Total Price:	$0.75
+
+
+The Soup in a Box Container
+The Height:		5
+The Width:		10
+The Depth:		10
+The SoupId:		lentilSoup234
+The Volume:		500
+The Unit Price:		0.0035
+The Total Price:	$1.75
+
+What action would you like to perform?

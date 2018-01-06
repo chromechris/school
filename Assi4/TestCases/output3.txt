@@ -1,0 +1,76 @@
+Choice		Action
+------		------
+A		Add Flight
+D		Display Flight
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter the flight information:
+Enter its airlines:
+Enter its flight number:
+Enter its departure city:
+Enter its departure time:
+Enter its departure date:
+Enter its arrival city:
+Enter its arrival time:
+Enter its arrival date:
+What action would you like to perform?
+
+Airlines:	B6
+Number:		0
+Departure:	PHX,01-12-17,5:00am
+Arrival:	SFO,01-12-17,7:00am
+
+What action would you like to perform?
+Please enter the flight information:
+Enter its airlines:
+Enter its flight number:
+Enter its departure city:
+Enter its departure time:
+Enter its departure date:
+Enter its arrival city:
+Enter its arrival time:
+Enter its arrival date:
+What action would you like to perform?
+
+Airlines:	?
+Number:		101
+Departure:	PHX,10-12-17,8:00am
+Arrival:	HOU,10-12-17,12:00pm
+
+What action would you like to perform?
+Please enter the flight information:
+Enter its airlines:
+Enter its flight number:
+Enter its departure city:
+Enter its departure time:
+Enter its departure date:
+Enter its arrival city:
+Enter its arrival time:
+Enter its arrival date:
+What action would you like to perform?
+
+Airlines:	AA
+Number:		402
+Departure:	PHX,03-12-17,7:00am
+Arrival:	LAX,03-12-17,8:00am
+
+What action would you like to perform?
+Please enter the flight information:
+Enter its airlines:
+Enter its flight number:
+Enter its departure city:
+Enter its departure time:
+Enter its departure date:
+Enter its arrival city:
+Enter its arrival time:
+Enter its arrival date:
+What action would you like to perform?
+
+Airlines:	DL
+Number:		102
+Departure:	PHX,02-12-17,7:00am
+Arrival:	SFO,02-12-17,9:00am
+
+What action would you like to perform?

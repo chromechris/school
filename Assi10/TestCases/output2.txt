@@ -1,0 +1,73 @@
+Choice		Action
+------		------
+A		Add String
+C		Count its Size
+D		Find Smallest
+L		List Strings
+Q		Quit
+R		Replace Strings
+S		Remove Strings
+T		Reverse Strings from Beginning
+?		Display Help
+
+What action would you like to perform?
+{ }
+What action would you like to perform?
+The size of the linked list is 0
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+The index is out of bounds
+What action would you like to perform?
+{ }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Apple }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Melon Kiwi Orange Olive Pear Lemon Guava Apple Potato Grape }
+What action would you like to perform?
+Please enter a number of elements to reverse from the beginning:
+What action would you like to perform?
+{ Orange Kiwi Melon Olive Pear Lemon Guava Apple Potato Grape }
+What action would you like to perform?
+Please enter a number of elements to reverse from the beginning:
+What action would you like to perform?
+{ Pear Olive Melon Kiwi Orange Lemon Guava Apple Potato Grape }
+What action would you like to perform?
+Please enter a number of elements to reverse from the beginning:
+What action would you like to perform?
+{ Pear Olive Melon Kiwi Orange Lemon Guava Apple Potato Grape }
+What action would you like to perform?
+Please enter a number of elements to reverse from the beginning:
+What action would you like to perform?
+{ Grape Potato Apple Guava Lemon Orange Kiwi Melon Olive Pear }
+What action would you like to perform?

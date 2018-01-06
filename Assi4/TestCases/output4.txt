@@ -1,0 +1,73 @@
+Choice		Action
+------		------
+A		Add Flight
+D		Display Flight
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Flight
+D		Display Flight
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Please enter the flight information:
+Enter its airlines:
+Enter its flight number:
+Enter its departure city:
+Enter its departure time:
+Enter its departure date:
+Enter its arrival city:
+Enter its arrival time:
+Enter its arrival date:
+What action would you like to perform?
+
+Airlines:	BA
+Number:		1430
+Departure:	PHX,01-12-17,5:00am
+Arrival:	LHR,01-12-17,11:00pm
+
+What action would you like to perform?
+Please enter the flight information:
+Enter its airlines:
+Enter its flight number:
+Enter its departure city:
+Enter its departure time:
+Enter its departure date:
+Enter its arrival city:
+Enter its arrival time:
+Enter its arrival date:
+What action would you like to perform?
+
+Airlines:	HA
+Number:		456
+Departure:	PHX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:00pm
+
+What action would you like to perform?
+Choice		Action
+------		------
+A		Add Flight
+D		Display Flight
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+
+Airlines:	HA
+Number:		456
+Departure:	PHX,10-12-17,8:00am
+Arrival:	HNL,10-12-17,12:00pm
+
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
+Unknown action
+What action would you like to perform?
