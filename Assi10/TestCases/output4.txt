@@ -1,0 +1,56 @@
+Choice		Action
+------		------
+A		Add String
+C		Count its Size
+D		Find Smallest
+L		List Strings
+Q		Quit
+R		Replace Strings
+S		Remove Strings
+T		Reverse Strings from Beginning
+?		Display Help
+
+What action would you like to perform?
+{ }
+What action would you like to perform?
+There is no element in the linked list
+What action would you like to perform?
+The size of the linked list is 0
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Mango Tomato Guava Banana }
+What action would you like to perform?
+The size of the linked list is 4
+What action would you like to perform?
+The smallest string is Banana
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Mango Tomato Lime Guava Banana }
+What action would you like to perform?
+Please enter a string to replace from the linked list:
+Please enter a string to replace with:
+What action would you like to perform?
+{ Mango Tomato Lime Guava Banana }
+What action would you like to perform?
+Please enter a string to replace from the linked list:
+Please enter a string to replace with:
+What action would you like to perform?
+{ Mango Tomato Guava Guava Banana }
+What action would you like to perform?
+Please enter a string to remove from the linked list:
+What action would you like to perform?
+{ Mango Tomato Banana }
+What action would you like to perform?

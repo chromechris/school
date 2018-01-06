@@ -1,0 +1,25 @@
+Choice		Action
+------		------
+A		Add Flight
+D		Display Flight
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter the flight information:
+Enter its airlines:
+Enter its flight number:
+Enter its departure city:
+Enter its departure time:
+Enter its departure date:
+Enter its arrival city:
+Enter its arrival time:
+Enter its arrival date:
+What action would you like to perform?
+
+Airlines:	AA
+Number:		102
+Departure:	PHX,01-12-17,7:00am
+Arrival:	SFO,01-12-17,9:00am
+
+What action would you like to perform?

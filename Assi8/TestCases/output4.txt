@@ -1,0 +1,180 @@
+Choice		Action
+------		------
+A		Add Flight
+C		Create FlightManagement
+D		Search by Flight Number
+E		Search by Departure
+L		List Flights
+O		Sort by Flight Number
+P		Sort by Departure
+Q		Quit
+R		Remove by Flight Number
+T		Close FlightManagement
+U		Write Text to File
+V		Read Text from File
+W		Serialize FlightManagement to File
+X		Deserialize FlightManagement from File
+?		Display Help
+
+Please enter a maximum number of flights
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight not added
+What action would you like to perform?
+
+
+Airlines:	B6
+Number:		345
+Departure:	PHX,2-12-17,12:00pm
+Arrival:	SFO,2-12-17,2:10pm
+
+
+Airlines:	AA
+Number:		235
+Departure:	SEA,2-23-17,1:55pm
+Arrival:	PHX,2-23-17,6:40pm
+
+
+What action would you like to perform?
+Please enter a new maximum number of flights:
+What action would you like to perform?
+
+no flight
+
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight added
+What action would you like to perform?
+Please enter a flight to add:
+Please enter its airlines to add:
+Please enter its flight number to add:
+Please enter its departure city to add:
+Please enter its departure year to add:
+Please enter its departure month to add:
+Please enter its departure date to add:
+Please enter its departure time to add:
+Please enter its arrival city to add:
+Please enter its arrival year to add:
+Please enter its arrival month to add:
+Please enter its arrival date to add:
+Please enter its arrival time to add:
+flight not added
+What action would you like to perform?
+
+
+Airlines:	DL
+Number:		51
+Departure:	EWR,3-3-17,11:23am
+Arrival:	DEN,3-3-17,5:00pm
+
+
+Airlines:	AA
+Number:		4325
+Departure:	PHX,2-23-17,1:55pm
+Arrival:	SEA,2-23-17,6:40pm
+
+
+What action would you like to perform?
+sorted by departures
+What action would you like to perform?
+
+
+Airlines:	DL
+Number:		51
+Departure:	EWR,3-3-17,11:23am
+Arrival:	DEN,3-3-17,5:00pm
+
+
+Airlines:	AA
+Number:		4325
+Departure:	PHX,2-23-17,1:55pm
+Arrival:	SEA,2-23-17,6:40pm
+
+
+What action would you like to perform?
+sorted by flight numbers
+What action would you like to perform?
+
+
+Airlines:	AA
+Number:		4325
+Departure:	PHX,2-23-17,1:55pm
+Arrival:	SEA,2-23-17,6:40pm
+
+
+Airlines:	DL
+Number:		51
+Departure:	EWR,3-3-17,11:23am
+Arrival:	DEN,3-3-17,5:00pm
+
+
+What action would you like to perform?

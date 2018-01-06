@@ -1,0 +1,4 @@
+The minimum integer is -90
+The count of integers is 9
+The sum of positive integers is 792
+The count of even integers in the sequence is 5

@@ -1,0 +1,14 @@
+A
+Cylinder/clamChowder2311/0.002/4/20
+A
+Cylinder/minestrone100/0.001/3/15
+A
+Box/splitPea2012/0.0015/8/20/8
+L
+C
+L
+D
+splitPea2014
+D
+splitPea2012
+Q

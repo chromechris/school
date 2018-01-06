@@ -1,0 +1,4 @@
+The minimum number is -555
+The sum of numbers at even indexes is -222
+The count of numbers that are divisible by 3 is 10
+The maximum number among numbers that are less than the first number is 111

@@ -1,0 +1,7 @@
+A
+Cylinder/chickensoup200/0.0054/5/10
+L
+A
+Box/tomatosoup03/0.0035/10/15/10
+L
+Q

@@ -1,0 +1,82 @@
+Choice		Action
+------		------
+A		Add Soup
+C		Compute Total Prices
+D		Search for Soup
+L		List Soups
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+Please enter some soup information to add:
+What action would you like to perform?
+Please enter some soup information to add:
+What action would you like to perform?
+Please enter some soup information to add:
+What action would you like to perform?
+
+The Soup in a Cylinder Container
+The Radius:		4
+The Height:		20
+The SoupId:		clamChowder2311
+The Volume:		0
+The Unit Price:		0.0020
+The Total Price:	$0.00
+
+
+The Soup in a Cylinder Container
+The Radius:		3
+The Height:		15
+The SoupId:		minestrone100
+The Volume:		0
+The Unit Price:		0.0010
+The Total Price:	$0.00
+
+
+The Soup in a Box Container
+The Height:		8
+The Width:		20
+The Depth:		8
+The SoupId:		splitPea2012
+The Volume:		0
+The Unit Price:		0.0015
+The Total Price:	$0.00
+
+What action would you like to perform?
+total prices computed
+What action would you like to perform?
+
+The Soup in a Cylinder Container
+The Radius:		4
+The Height:		20
+The SoupId:		clamChowder2311
+The Volume:		1005
+The Unit Price:		0.0020
+The Total Price:	$2.01
+
+
+The Soup in a Cylinder Container
+The Radius:		3
+The Height:		15
+The SoupId:		minestrone100
+The Volume:		424
+The Unit Price:		0.0010
+The Total Price:	$0.42
+
+
+The Soup in a Box Container
+The Height:		8
+The Width:		20
+The Depth:		8
+The SoupId:		splitPea2012
+The Volume:		1280
+The Unit Price:		0.0015
+The Total Price:	$1.92
+
+What action would you like to perform?
+Please enter a soupID to search:
+soup not found
+What action would you like to perform?
+Please enter a soupID to search:
+soup found
+What action would you like to perform?

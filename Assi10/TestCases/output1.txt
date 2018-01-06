@@ -1,0 +1,68 @@
+Choice		Action
+------		------
+A		Add String
+C		Count its Size
+D		Find Smallest
+L		List Strings
+Q		Quit
+R		Replace Strings
+S		Remove Strings
+T		Reverse Strings from Beginning
+?		Display Help
+
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Grape }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Melon Grape }
+What action would you like to perform?
+The size of the linked list is 2
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Melon Grape Apple }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Peach Melon Grape Apple }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Peach Banana Melon Grape Apple }
+What action would you like to perform?
+The size of the linked list is 5
+What action would you like to perform?
+The smallest string is Apple
+What action would you like to perform?
+{ Peach Banana Melon Grape Apple }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+The index is out of bounds
+What action would you like to perform?
+{ Peach Banana Melon Grape Apple }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Peach Banana Melon Grape Apple Kiwi }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+The index is out of bounds
+What action would you like to perform?
+{ Peach Banana Melon Grape Apple Kiwi }
+What action would you like to perform?
+Please enter a string to add:
+Please enter its index:
+What action would you like to perform?
+{ Lemon Peach Banana Melon Grape Apple Kiwi }
+What action would you like to perform?
