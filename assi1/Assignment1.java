@@ -22,7 +22,7 @@ public class Assignment1
     System.out.print("This program reads an integer from a keyboard,\n"
                    + "and prints it out on the display screen.\n" 
                    + "Make sure that you get the exact same output as the expected one.\n"
-                   + "The read number is " + number + ".");
+                   + "The read number is " + number + ". WHOOPS");
    }
  }
 
